@@ -1,0 +1,29 @@
+
+---------------
+>Contact range,password range(Registration Form)
+>Contact range,password range(profile Form)
+>Payment(2nd AJAX Calender)
+
+>Inquiry(capacity)
+>Quotation
+>Purchase,sales,costing,quotation(update,select)
+
+>Service_Scheduling-->AMC id(Employee,Admin)
+>AMC
+
+---------------
+>View
+>costing,quotation,production(design)
+
+other process = melting,fitting,installation
+other charges= tranportation,electricity charges, 
+
+
+
+-----------------
+ModelView
+PaymentView
+InvoiceView
+ReceiptView
+AMCView
+ServiceSchedullingView
