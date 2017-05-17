@@ -29,5 +29,5 @@ AMCView
 ServiceSchedullingView
 
 --------------------------
-helllo i did it man...
+
 -------------------------
